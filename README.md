@@ -1,7 +1,7 @@
 # Hi there, I'm Michael Craft 👋
 
 ### About Me
-I'm a developer based in **[Richmon, MO]**, with a focus on building practical, full-stack web applications. I enjoy turning complex problems into simple, elegant solutions. I'm currently seeking a junior developer role where I can contribute to a team and continue to grow my skills.
+I'm a developer based in **[Richmond, MO]**, with a focus on building practical, full-stack web applications. I enjoy turning complex problems into simple, elegant solutions. I'm currently seeking a junior developer role where I can contribute to a team and continue to grow my skills.
 
 ---
 
