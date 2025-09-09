@@ -27,4 +27,4 @@ A full-stack web application designed to help roofing salespeople manage their s
 ### 📫 How to Reach Me
 
 * **Email:** **[craftywma@gmail.com]**
-* **LinkedIn:** **[www.linkedin.com/in/michael-c-823362382]**
+* **LinkedIn:** **[www.linkedin.com/in/michael-craft1]**
